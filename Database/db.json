@@ -1,0 +1,32 @@
+{
+  "tasks": [
+    {
+      "id": 1,
+      "taskname": "React class",
+      "startDate": "01/11/2023",
+      "endDate": "01/12/2023",
+      "Action": "start react class"
+    },
+    {
+      "id": 2,
+      "taskname": "JS class",
+      "startDate": "01/11/2023",
+      "endDate": "01/12/2023",
+      "Action": "start Java class"
+    },
+    {
+      "id": 3,
+      "taskname": "HTML class",
+      "startDate": "01/11/2023",
+      "endDate": "01/12/2023",
+      "Action": "start HTML class"
+    },
+    {
+      "id": 4,
+      "taskname": "css class",
+      "startDate": "01/11/2023",
+      "endDate": "01/12/2023",
+      "Action": "start css class"
+    }
+  ]
+}

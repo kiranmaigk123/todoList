@@ -1,0 +1,23 @@
+{
+  "users": [
+    {
+      "id": 1,
+      "username": "kiran",
+      "email": "kiran@gmail.com",
+      "password": "kiran12",
+      "confirmpass": "kiran12"
+    },
+    {
+      "username": "abhi",
+      "email": "abhi@gmail.com",
+      "password": "abhi12",
+      "id": 2
+    },
+    {
+      "username": "shabaz",
+      "email": "shabaz@gmail.com",
+      "password": "shabaz12",
+      "id": 3
+    }
+  ]
+}
