@@ -18,6 +18,18 @@
       "email": "shabaz@gmail.com",
       "password": "shabaz12",
       "id": 3
+    },
+    {
+      "username": "kiran",
+      "email": "kiranmaigk445@gmail.com",
+      "password": "kiran",
+      "id": 4
+    },
+    {
+      "username": "kiran",
+      "email": "kiranmaigk445@gmail.com",
+      "password": "kiran",
+      "id": 5
     }
   ]
 }
